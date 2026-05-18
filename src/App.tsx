@@ -1,12 +1,9 @@
 
 import React from 'react'
-function App() {
-  
 
+const App = () => {
   return (
-    <div>
-      Hlo yash
-    </div>
+    <div>Hlo yash</div>
   )
 }
 
